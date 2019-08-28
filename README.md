@@ -1,1 +1,1 @@
-# IL-Lotto
+First program made in Python for learning purposes. Basically the program asks the user how many games and what kind of lotto they want to play. Based on their selections, program asks again if the user wants to auto generate or manually choose their lucky numbers.
